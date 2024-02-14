@@ -9,7 +9,7 @@ Currently, two official plugins are available:
 
 ## Commands
 
-From terminal or vscode:
+From terminal or VScode:
 
 Go to your root projects folder.
 
@@ -19,7 +19,7 @@ Run command:
 
 `cd vite-app`
 
-If you installed Vite from terminal open vscode with `code .`
+If you installed Vite from terminal open VScode with `code .`
 
 Run commands:
 
@@ -34,4 +34,4 @@ Work on your project !
 `npm run preview`
 
 View TM's tutorial:
-<a href="https://youtu.be/Z03-h7GUej0" target="_blank">Vite crash course</a>
+<a href="https://www.traversymedia.com/blog/vite-crash-course" target="_blank">Vite crash course</a>
